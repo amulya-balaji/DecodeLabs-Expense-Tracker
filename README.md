@@ -17,9 +17,9 @@ A simple Python Expense Tracker that allows users to enter expenses, calculates 
 
 ```bash
 python expense_tracker.py
-
-Sample Output
-
+```
+## Sample Output
+```
 Enter expense (or 'done' to finish): 100
 Enter expense (or 'done' to finish): 50
 Enter expense (or 'done' to finish): done
@@ -32,13 +32,4 @@ Average Expense: 75.0
 
 
 ---
-
-## Step 3: Create a GitHub Repository
-
-1. Go to :contentReference[oaicite:0]{index=0}
-2. Sign in.
-3. Click **New Repository**.
-4. Repository Name:
-
-```text
-expense-tracker-python
+```
